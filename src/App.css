@@ -4,10 +4,13 @@
 }
 
 .colour-border{
-  border: 3px solid green;
+  border: 3px solid rgb(4, 61, 247);
+  background-color: lightslategrey;
   padding: 10px;
 }
 
 .header{
   padding: 10px;
+  font-size: large;
+  font-weight: bolder;
 }
